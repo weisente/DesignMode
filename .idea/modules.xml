@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignMode.iml" filepath="$PROJECT_DIR$/DesignMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builder2/builder2.iml" filepath="$PROJECT_DIR$/builder2/builder2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory5/factory5.iml" filepath="$PROJECT_DIR$/factory5/factory5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
     </modules>
   </component>
 </project>
