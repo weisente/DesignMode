@@ -14,10 +14,12 @@
             <option value="$PROJECT_DIR$/commond11" />
             <option value="$PROJECT_DIR$/duty9" />
             <option value="$PROJECT_DIR$/factory5" />
+            <option value="$PROJECT_DIR$/mediator17" />
             <option value="$PROJECT_DIR$/memento13" />
             <option value="$PROJECT_DIR$/observer12" />
             <option value="$PROJECT_DIR$/parser10" />
             <option value="$PROJECT_DIR$/policy" />
+            <option value="$PROJECT_DIR$/proxy18" />
             <option value="$PROJECT_DIR$/singleton" />
             <option value="$PROJECT_DIR$/state8" />
             <option value="$PROJECT_DIR$/template15" />
