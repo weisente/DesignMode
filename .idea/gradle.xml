@@ -8,10 +8,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/abstractfactory" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/builder2" />
+            <option value="$PROJECT_DIR$/duty9" />
             <option value="$PROJECT_DIR$/factory5" />
+            <option value="$PROJECT_DIR$/parser10" />
+            <option value="$PROJECT_DIR$/policy" />
             <option value="$PROJECT_DIR$/singleton" />
+            <option value="$PROJECT_DIR$/state8" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

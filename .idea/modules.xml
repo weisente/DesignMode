@@ -3,10 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignMode.iml" filepath="$PROJECT_DIR$/DesignMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractfactory/abstractfactory.iml" filepath="$PROJECT_DIR$/abstractfactory/abstractfactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder2/builder2.iml" filepath="$PROJECT_DIR$/builder2/builder2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duty9/duty9.iml" filepath="$PROJECT_DIR$/duty9/duty9.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory5/factory5.iml" filepath="$PROJECT_DIR$/factory5/factory5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser10/parser10.iml" filepath="$PROJECT_DIR$/parser10/parser10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/policy/policy.iml" filepath="$PROJECT_DIR$/policy/policy.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state8/state8.iml" filepath="$PROJECT_DIR$/state8/state8.iml" />
     </modules>
   </component>
 </project>
