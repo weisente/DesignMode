@@ -1,1 +1,1 @@
-include ':app', ':singleton', ':builder2', ':factory5', ':abstractfactory', ':policy', ':state8', ':duty9', ':parser10'
+include ':app', ':singleton', ':builder2', ':factory5', ':abstractfactory', ':policy', ':state8', ':duty9', ':parser10', ':commond11', ':observer12', ':memento13', ':template15', ':visitor16'
